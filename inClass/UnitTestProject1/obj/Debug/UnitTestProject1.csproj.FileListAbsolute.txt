@@ -1,0 +1,7 @@
+X:\CPTS_WSU\Cpts323\inClass\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+X:\CPTS_WSU\Cpts323\inClass\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+X:\CPTS_WSU\Cpts323\inClass\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+X:\CPTS_WSU\Cpts323\inClass\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+X:\CPTS_WSU\Cpts323\inClass\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+X:\CPTS_WSU\Cpts323\inClass\UnitTestProject1\bin\Debug\inClass.exe
+X:\CPTS_WSU\Cpts323\inClass\UnitTestProject1\bin\Debug\inClass.pdb

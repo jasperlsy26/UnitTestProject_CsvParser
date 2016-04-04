@@ -1,0 +1,6 @@
+X:\CPTS_WSU\Cpts323\inClass\inClass\bin\Debug\inClass.exe.config
+X:\CPTS_WSU\Cpts323\inClass\inClass\bin\Debug\inClass.exe
+X:\CPTS_WSU\Cpts323\inClass\inClass\bin\Debug\inClass.pdb
+X:\CPTS_WSU\Cpts323\inClass\inClass\obj\Debug\inClass.csprojResolveAssemblyReference.cache
+X:\CPTS_WSU\Cpts323\inClass\inClass\obj\Debug\inClass.exe
+X:\CPTS_WSU\Cpts323\inClass\inClass\obj\Debug\inClass.pdb
